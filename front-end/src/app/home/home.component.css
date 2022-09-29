@@ -1,0 +1,19 @@
+.home {
+    text-align: center;
+    color: black;
+}
+
+.overview {
+    color: black;
+}
+
+
+
+.case {
+    width: 80px;
+    height: 80px;
+}
+
+.overview {
+    margin: 7% auto;
+}

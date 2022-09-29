@@ -1,0 +1,47 @@
+p {
+    text-align: center;
+    color: black;
+}
+
+.loc {
+    color: white;
+}
+
+.error {
+    color: red;
+}
+
+table {
+    border-color: black;
+}
+
+h2 {
+    text-align: center;
+    color: black;
+}
+
+.form {
+    margin-top: 40px;
+    margin-right: 300px;
+    margin-left: 300px;
+}
+
+label {
+    margin-top: 20px;
+    margin-bottom: 10px;
+    color: black;
+}
+
+table {
+    border-width: 2;
+}
+
+td,
+th {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+button {
+    text-align: center;
+}

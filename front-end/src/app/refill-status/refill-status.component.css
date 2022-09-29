@@ -1,0 +1,33 @@
+div {
+    margin-right: 300pt;
+}
+
+::ng-deep .sub-style {
+    background-color: brown;
+    color: white;
+    margin-top: 200px!important;
+}
+
+p {
+    text-align: center;
+}
+
+.form {
+    margin-top: 40px;
+    margin-right: 500px;
+}
+
+.error {
+    color: red;
+}
+
+table {
+    border-color: black;
+    margin-left: 22%;
+    margin-top: 10%;
+}
+
+td,
+th {
+    text-align: center;
+}

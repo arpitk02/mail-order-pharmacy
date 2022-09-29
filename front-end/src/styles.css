@@ -1,0 +1,10 @@
+body {
+    background: url("assets/images/bg-1.png") repeat-y;
+    background-size: cover;
+    color: white;
+}
+
+body {
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif!important;
+}

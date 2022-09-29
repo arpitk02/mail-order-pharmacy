@@ -1,0 +1,33 @@
+form {
+    margin-right: 300px;
+    margin-left: 300px;
+}
+
+label {
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+::ng-deep .sub-style {
+    background-color: brown;
+    color: white;
+    margin-top: 450px!important;
+}
+
+p {
+    text-align: center;
+}
+
+table {
+    border-width: 2;
+}
+
+td,
+th {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.error {
+    color: red;
+}

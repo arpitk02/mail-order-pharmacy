@@ -1,0 +1,31 @@
+p {
+    text-align: center;
+}
+
+h2,
+h3 {
+    text-align: center;
+    color: black;
+}
+
+.form {
+    margin-top: 40px;
+    margin-right: 300px;
+    margin-left: 300px;
+    color: black;
+}
+
+::ng-deep .sub-style {
+    background-color: green!important;
+    color: white;
+    margin-bottom: 50px!important;
+}
+
+label {
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.message {
+    color: green;
+}
